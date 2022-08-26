@@ -23,7 +23,7 @@
 
 1. Star (if you like)
 1. Clone the repo to local
-1. Run `scripts/run.sh`
+1. Run `scripts/run.sh` in wsl
 1. Select the version of Magisk and select the [OpenGApps variant](https://github.com/opengapps/opengapps/wiki#variants) you like, select the root solution (none means no root), select the WSA version and its architecture (mostly x64)
 1. Wait for the script to complete and the artifact will be in the `output` folder
 
